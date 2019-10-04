@@ -1,0 +1,8 @@
+Discos duros y velocidad de transferencia de datos
+
+Caché
+Los discos duros guardan los bloques de datos usados con frecuencia en un banco de memoria de acceso aleatorio rápido o RAM (por sus siglas en inglés) llamado caché. Si la unidad es capaz de acceder a datos desde el caché en lugar de tener que recuperar datos desde el disco duro, esto puede evitar retrasos mecánicos, lo que permite transferir datos mucho más rápido.
+Interfaz
+La electrónica y el cableado que conecta al disco duro con la computadora establecen el límite de velocidad máximo de la tasa de transferencia de la unidad. Las computadoras usan varias interfaces estándar como SCSI, IDE y SATA.
+Latencia
+Un disco duro posee partes mecánicas que giran los platos del disco interno y mueven los cabezales de lectura hacia atrás y hacia adelante a través de la superficie del plato. Estas operaciones mecánicas le agregan algunas milésimas de segundo a cada transferencia de datos. Aunque este retraso es minúsculo para una transferencia, se suma a través de millones de transferencias.
